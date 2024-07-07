@@ -16,6 +16,7 @@
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
    <img alt="vuedotjs" src="https://img.shields.io/badge/-VuePress-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
  <img alt="mysql" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="thealgorithms" src="https://img.shields.io/badge/-Algorithms-00BCB4?style=flat-square&logo=thealgorithms&logoColor=white"/>
 </p>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
