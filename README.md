@@ -2,10 +2,9 @@
 - :pencil: 博客：[码海拾贝-shell101.com](https://www.shell101.com) - 过来逛逛不亏！
 
 ### My Status ✨
-<a href="https://github.com/codeagles">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeagles&hide=contribs,prs" />
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeagles&&hide_progress=true" />
-</a>
+  ![Miico's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeagles&count_private=true&hide=issues)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeagles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Things I code with 
 <p>
