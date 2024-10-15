@@ -1,5 +1,5 @@
 ### Hi, I'm Miico 👋
-- :pencil: 博客：[码海拾贝-shell101.com](https://www.shell101.com) - 过来逛逛不亏！
+- :pencil: 博客：[码海拾贝-shell101.com](https://www.shell101.com) - 进来逛逛不亏！
 
 ### My Status ✨
   ![Miico's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeagles&count_private=true&hide=issues)
